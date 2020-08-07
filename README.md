@@ -1,4 +1,4 @@
 # Covid-Xray-Diagnosis
-Diagnose COVID using X-ray images.  
+Diagnose COVID using Chest X-ray images.  
 
 #### * THIS IS JUST MEANT FOR PROJECT PURPOSES, DON'T USE THIS PROJECT FOR MEDICAL DIAGNOSIS.
