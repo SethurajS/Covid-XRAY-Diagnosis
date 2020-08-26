@@ -6,7 +6,7 @@ Diagnose COVID using Chest X-ray images.
 
 
 
-#### * THIS IS JUST MEANT FOR PROJECT PURPOSES, DON'T USE THIS PROJECT FOR MEDICAL DIAGNOSIS.
+### APPLICATION SCREENSHOTS
 
 
 <img src="images/Application_Demo.png" width="500">
